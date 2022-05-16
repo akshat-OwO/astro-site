@@ -2,7 +2,7 @@
     {
       "name": "John Doe",
       "content": "iquam vel nibh amet, vitae at purus dui semper vel facilisis enim",
-      "avatar": ".../../public/assets/avatar-1.jpeg",
+      "avatar": "/assets/avatar-1.jpeg",
       "active": true
     },
     {
